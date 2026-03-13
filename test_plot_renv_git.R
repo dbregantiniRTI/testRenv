@@ -1,3 +1,5 @@
+renv::restore()
+
 library(plotly)
 
 x <- c("Product A", "Product B", "Product C")
